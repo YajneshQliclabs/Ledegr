@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvdate" type="id"></item>
+<item name="tvParticular" type="id"></item>
+<item name="tvAmount" type="id"></item>
+<item name="tvDR" type="id"></item>
+<item name="tvCR" type="id"></item>
+<!--    <item name="recyclerView" type="id">Ledger</item>-->
+</resources>

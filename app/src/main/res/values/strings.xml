@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ledger</string>
+    <string name="journal_date">Date</string>
+    <string name="by_to_account_name">Particular</string>
+    <string name="running_balance">Amount</string>
+    <string name="dr_amount">DR</string>
+    <string name="cr_amount">CR</string>
+</resources>
